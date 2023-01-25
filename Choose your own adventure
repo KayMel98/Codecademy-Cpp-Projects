@@ -63,3 +63,4 @@ if (answer1==1){
 //Output story based on user input
 
 std::cout<<"For vacation this year I went to the " << dest << " for a " << time << " the best part was going " << activity <<".\n";
+}
